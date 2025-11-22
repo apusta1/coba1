@@ -9,6 +9,7 @@ const json = {
           "type": "radiogroup",
           "name": "question1",
           "title": "1 + 1 = ",
+          "isRequired": true,
           "choices": [
             {
               "value": "Item 1",
@@ -37,6 +38,7 @@ const json = {
           "type": "radiogroup",
           "name": "question2",
           "title": "2 + 2 =",
+          "isRequired": true,
           "choices": [
             {
               "value": "Item 1",
